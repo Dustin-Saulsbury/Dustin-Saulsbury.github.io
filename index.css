@@ -1,1 +1,17 @@
+body {
+  background-color: AliceBlue;
+  font-family: "Courier New", Courier, monospace;
+}
 
+div {
+  /*--styling dive--*/
+  
+  /*width: 500px;*/
+  width: 50%;
+  
+  padding: 30px;
+  
+  Border: 5px;
+  
+  Margin: 20px;
+}
